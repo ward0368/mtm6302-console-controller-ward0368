@@ -1,0 +1,22 @@
+/* CSS STYLING */
+
+/* Default styling */
+body {
+    background-color: #f0f0f0;
+}
+
+h1, p {
+    color: black;
+}
+
+/* Light theme */
+.light-theme {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+/* Dark theme */
+.dark-theme {
+    background-color: #333;
+    color: #f0f0f0;
+} 
